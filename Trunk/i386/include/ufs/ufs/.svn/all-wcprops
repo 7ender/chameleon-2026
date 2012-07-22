@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ufs
+END
+dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ufs/dir.h
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ufs/inode.h
+END
+ufsmount.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ufs/ufsmount.h
+END
+dinode.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ufs/dinode.h
+END
+ufs_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ufs/ufs_extern.h
+END

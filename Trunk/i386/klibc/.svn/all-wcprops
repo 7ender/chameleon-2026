@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/i386/klibc
+END
+strlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/i386/klibc/strlcpy.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/i386/klibc/LICENSE
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/i386/klibc/Makefile
+END

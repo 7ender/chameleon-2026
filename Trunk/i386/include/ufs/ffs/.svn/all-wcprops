@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ffs
+END
+ffs_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ffs/ffs_extern.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/ufs/ffs/fs.h
+END

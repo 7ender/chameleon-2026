@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/platform
+END
+AppleMacIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/platform/AppleMacIO.h
+END
+AppleMacIODevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/platform/AppleMacIODevice.h
+END
+ApplePlatformExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/platform/ApplePlatformExpert.h
+END
+AppleNMI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/platform/AppleNMI.h
+END

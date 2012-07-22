@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/mach-o/ppc
+END
+swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/mach-o/ppc/swap.h
+END
+reloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/mach-o/ppc/reloc.h
+END

@@ -1,0 +1,1266 @@
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: ../Keylayout.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/libsaio/term.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/getopt.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o32: cham-mklayout.c
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: ../Keylayout.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/libsaio/term.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/getopt.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/cham-mklayout.o64: cham-mklayout.c
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/architecture/byte_order.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/i386/eflags.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/libkern/OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/libkern/i386/OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach-o/loader.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach-o/nlist.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/clock_priv.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/clock_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/error.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/exception_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/host_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/host_notify.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/host_priv.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/host_security.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/host_special_ports.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/exception.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/fp_reg.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/kern_return.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/processor_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/rpc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/task.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/thread_act.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/thread_state.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/thread_status.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/i386/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/kern_return.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/kmod.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/ledger.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/lock_set.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_error.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_host.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_init.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_interface.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_traps.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mach_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/exception.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/kern_return.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/processor_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/rpc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/thread_state.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/thread_status.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/machine/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/memory_object_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/message.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mig.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/mig_errors.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/ndr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/notify.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/processor.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/processor_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/processor_set.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/rpc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/semaphore.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/std_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/sync_policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/task.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/task_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/task_policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/task_special_ports.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/thread_act.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/thread_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/thread_policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/thread_special_ports.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/thread_status.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/thread_switch.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/time_value.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_attributes.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_behavior.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_inherit.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_map.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_prot.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_purgable.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_region.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_statistics.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_sync.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/hash_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/ipc_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/lockgroup_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/mach_debug_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/page_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/vm_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/mach_debug/zone_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/file.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/queue.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o32: dyldsymboltool.c
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/architecture/byte_order.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/i386/eflags.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/libkern/OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/libkern/i386/OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach-o/loader.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach-o/nlist.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/clock_priv.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/clock_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/error.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/exception_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/host_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/host_notify.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/host_priv.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/host_security.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/host_special_ports.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/exception.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/fp_reg.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/kern_return.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/processor_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/rpc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/thread_state.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/thread_status.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/i386/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/kern_return.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/kmod.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/ledger.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/lock_set.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_error.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_host.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_init.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_interface.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_traps.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mach_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/exception.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/kern_return.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/processor_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/rpc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/thread_state.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/thread_status.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/machine/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/memory_object_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/message.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mig.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/mig_errors.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/ndr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/notify.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/processor.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/processor_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/processor_set.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/rpc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/semaphore.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/std_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/sync_policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/task.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/task_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/task_policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/task_special_ports.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/thread_act.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/thread_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/thread_policy.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/thread_special_ports.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/thread_status.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/thread_switch.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/time_value.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_attributes.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_behavior.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_inherit.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_map.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_prot.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_purgable.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_region.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_statistics.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_sync.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/x86_64/task.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach/x86_64/thread_act.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/hash_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/ipc_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/lockgroup_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/mach_debug_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/page_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/vm_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/mach_debug/zone_info.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/file.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/queue.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/dyldsymboltool.o64: dyldsymboltool.c
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFCharacterSet.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFData.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFDate.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFDictionary.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFLocale.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFRunLoop.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/ConditionalMacros.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/CoreServices.framework/Headers/../Frameworks/CarbonCore.framework/Headers/MacTypes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/IOKit.framework/Headers/IOKitKeys.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/IOKit.framework/Headers/IOReturn.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/IOKit.framework/Headers/IOTypes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /System/Library/Frameworks/IOKit.framework/Headers/OSMessageNotification.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/AvailabilityMacros.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/Block.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/TargetConditionals.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/device/device_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/base.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/data.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/dispatch.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/group.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/io.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/object.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/once.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/queue.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/semaphore.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/source.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/dispatch/time.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/i386/eflags.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/clock_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/error.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/exception_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/host_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/host_notify.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/host_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/fp_reg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/i386/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/kmod.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/mach_init.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/mach_traps.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/mach_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/machine/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/memory_object_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/message.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/port.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/std_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/task_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/task_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/task_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/thread_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/thread_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/thread_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/time_value.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_attributes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_behavior.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_inherit.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_prot.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_purgable.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_region.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_statistics.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_sync.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/mach/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/stdint.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o32: bdmesg.c
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFCharacterSet.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFData.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFDate.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFDictionary.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFLocale.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFRunLoop.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/ConditionalMacros.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/CoreServices.framework/Headers/../Frameworks/CarbonCore.framework/Headers/MacTypes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/IOKit.framework/Headers/IOKitKeys.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/IOKit.framework/Headers/IOReturn.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/IOKit.framework/Headers/IOTypes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /System/Library/Frameworks/IOKit.framework/Headers/OSMessageNotification.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/AvailabilityMacros.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/Block.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/TargetConditionals.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/device/device_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/base.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/data.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/dispatch.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/group.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/io.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/object.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/once.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/queue.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/semaphore.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/source.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/dispatch/time.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/i386/eflags.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/clock_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/error.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/exception_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/host_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/host_notify.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/host_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/fp_reg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/i386/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/kmod.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/mach_init.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/mach_traps.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/mach_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/machine/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/memory_object_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/message.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/port.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/std_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/task_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/task_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/task_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/thread_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/thread_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/thread_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/time_value.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_attributes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_behavior.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_inherit.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_prot.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_purgable.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_region.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_statistics.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_sync.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/mach/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/stdint.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/bdmesg.o64: bdmesg.c
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/architecture/byte_order.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/i386/eflags.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/libkern/OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/libkern/i386/OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach-o/loader.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/clock_priv.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/clock_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/error.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/exception_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/host_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/host_notify.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/host_priv.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/host_security.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/host_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/fp_reg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/rpc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/task.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/thread_act.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/i386/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/kmod.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/ledger.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/lock_set.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_error.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_host.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_init.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_interface.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_port.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_traps.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mach_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/rpc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/machine/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/memory_object_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/message.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mig.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/mig_errors.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/ndr.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/notify.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/port.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/processor.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/processor_set.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/rpc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/semaphore.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/std_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/sync_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/task.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/task_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/task_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/task_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/thread_act.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/thread_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/thread_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/thread_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/thread_switch.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/time_value.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_attributes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_behavior.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_inherit.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_map.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_prot.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_purgable.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_region.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_statistics.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_sync.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/hash_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/ipc_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/lockgroup_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/mach_debug_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/page_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/vm_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/mach_debug/zone_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/stdint.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/fcntl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/file.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/queue.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o32: machOconv.c
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/architecture/byte_order.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/i386/eflags.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/libkern/OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/libkern/i386/OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach-o/loader.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/clock_priv.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/clock_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/error.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/exception_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/host_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/host_notify.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/host_priv.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/host_security.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/host_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/fp_reg.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/rpc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/i386/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/kmod.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/ledger.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/lock_set.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_error.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_host.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_init.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_interface.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_port.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_traps.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mach_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/boolean.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/exception.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/kern_return.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/rpc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/thread_state.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/vm_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/machine/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/memory_object_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/message.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mig.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/mig_errors.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/ndr.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/notify.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/port.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/processor.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/processor_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/processor_set.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/rpc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/semaphore.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/std_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/sync_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/task.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/task_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/task_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/task_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/thread_act.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/thread_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/thread_policy.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/thread_special_ports.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/thread_status.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/thread_switch.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/time_value.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_attributes.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_behavior.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_inherit.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_map.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_prot.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_purgable.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_region.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_statistics.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_sync.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/vm_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/x86_64/task.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach/x86_64/thread_act.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/hash_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/ipc_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/lockgroup_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/mach_debug_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/page_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/vm_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/mach_debug/zone_info.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/stdint.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/fcntl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/file.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/queue.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/machOconv.o64: machOconv.c

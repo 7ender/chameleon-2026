@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin
+END
+clean_po_headers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/clean_po_headers.sh
+END

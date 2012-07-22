@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Scripts.templates/Pre
+END
+clean_bootplist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Scripts.templates/Pre/clean_bootplist.pl
+END
+preinstall
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Scripts.templates/Pre/preinstall
+END

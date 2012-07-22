@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/chameleon/!svn/ver/2025/branches/ErmaC/Trunk/package
+END
+Distribution
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Distribution
+END
+slimpkg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chameleon/!svn/ver/1666/branches/ErmaC/Trunk/package/slimpkg.sh
+END
+builddmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/1652/branches/ErmaC/Trunk/package/builddmg.sh
+END
+Changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Changes.txt
+END
+smbios.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/package/smbios.plist
+END
+po4a-chameleon.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/po4a-chameleon.cfg
+END
+buildpkg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/2025/branches/ErmaC/Trunk/package/buildpkg.sh
+END

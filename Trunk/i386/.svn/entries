@@ -1,0 +1,132 @@
+10
+
+dir
+2026
+http://forge.voodooprojects.org/svn/chameleon/branches/ErmaC/Trunk/i386
+http://forge.voodooprojects.org/svn/chameleon
+
+
+
+2012-07-20T02:30:50.037506Z
+2026
+ifabio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b5af796a-00a8-11df-919b-ffff7a100b7d
+
+libsaio
+dir
+
+boot0
+dir
+
+include
+dir
+
+boot1
+dir
+
+klibc
+dir
+
+boot2
+dir
+
+config
+dir
+
+doc
+dir
+
+modules
+dir
+
+Cconfig
+file
+
+
+
+
+2012-07-22T15:40:29.000000Z
+2110a744cebe9582c614aab7aec541a5
+2012-06-04T20:43:09.115900Z
+1987
+ifabio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+332
+
+cdboot
+dir
+
+libsa
+dir
+
+util
+dir
+
+Makefile
+file
+
+
+
+
+2012-07-22T15:40:29.000000Z
+9d0f623b811fbea7a1ab62dbca2da977
+2011-12-26T02:58:59.016676Z
+1751
+ifabio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+638
+

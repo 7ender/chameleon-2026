@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Scripts/Sub
+END
+CheckPreviousChameleon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/package/Scripts/Sub/CheckPreviousChameleon.sh
+END
+patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/1631/branches/ErmaC/Trunk/package/Scripts/Sub/patch
+END
+CheckFatType.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/package/Scripts/Sub/CheckFatType.sh
+END
+MountESP.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/package/Scripts/Sub/MountESP.sh
+END
+WriteChameleonStage0.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/package/Scripts/Sub/WriteChameleonStage0.sh
+END
+WriteChameleonStage1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/1651/branches/ErmaC/Trunk/package/Scripts/Sub/WriteChameleonStage1.sh
+END
+CheckPartitionScheme.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/package/Scripts/Sub/CheckPartitionScheme.sh
+END
+WriteChameleonStage2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/1651/branches/ErmaC/Trunk/package/Scripts/Sub/WriteChameleonStage2.sh
+END
+CheckDiskMicrocode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/1685/branches/ErmaC/Trunk/package/Scripts/Sub/CheckDiskMicrocode.sh
+END
+CheckProceed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/1751/branches/ErmaC/Trunk/package/Scripts/Sub/CheckProceed.sh
+END
+SetActivePartition.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/1651/branches/ErmaC/Trunk/package/Scripts/Sub/SetActivePartition.sh
+END
+CheckGRUBLinuxLoader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chameleon/!svn/ver/1726/branches/ErmaC/Trunk/package/Scripts/Sub/CheckGRUBLinuxLoader.sh
+END
+UnMountEFIvolumes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/Scripts/Sub/UnMountEFIvolumes.sh
+END
+CheckWindowsDiskSignature.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/package/Scripts/Sub/CheckWindowsDiskSignature.sh
+END

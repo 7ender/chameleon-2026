@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/serial
+END
+IORS232SerialStreamSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/serial/IORS232SerialStreamSync.h
+END
+IOSerialDriverSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/serial/IOSerialDriverSync.h
+END
+IOSerialStreamSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/serial/IOSerialStreamSync.h
+END
+IOModemSerialStreamSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/serial/IOModemSerialStreamSync.h
+END
+IOSerialKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/serial/IOSerialKeys.h
+END

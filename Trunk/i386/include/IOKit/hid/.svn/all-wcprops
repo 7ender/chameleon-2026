@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/hid
+END
+IOHIDDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/hid/IOHIDDevice.h
+END
+IOHIDUsageTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/hid/IOHIDUsageTables.h
+END
+IOHIDInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/hid/IOHIDInterface.h
+END
+IOHIDElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/hid/IOHIDElement.h
+END
+IOHIDKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/hid/IOHIDKeys.h
+END

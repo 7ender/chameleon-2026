@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/libkern/i386
+END
+_OSByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/libkern/i386/_OSByteOrder.h
+END
+OSByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/libkern/i386/OSByteOrder.h
+END

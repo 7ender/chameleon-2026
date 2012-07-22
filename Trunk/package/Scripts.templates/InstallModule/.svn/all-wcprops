@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chameleon/!svn/ver/1802/branches/ErmaC/Trunk/package/Scripts.templates/InstallModule
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chameleon/!svn/ver/1802/branches/ErmaC/Trunk/package/Scripts.templates/InstallModule/postinstall
+END

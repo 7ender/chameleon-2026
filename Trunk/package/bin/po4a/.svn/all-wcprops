@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a
+END
+po4a-normalize
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a/po4a-normalize
+END
+po4a-updatepo
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a/po4a-updatepo
+END
+po4a
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a/po4a
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chameleon/!svn/ver/1847/branches/ErmaC/Trunk/package/bin/po4a/MANIFEST
+END
+README.maintainers
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/1847/branches/ErmaC/Trunk/package/bin/po4a/README.maintainers
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chameleon/!svn/ver/1847/branches/ErmaC/Trunk/package/bin/po4a/COPYING
+END
+README.translators
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chameleon/!svn/ver/1847/branches/ErmaC/Trunk/package/bin/po4a/README.translators
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a/README
+END
+po4a-gettextize
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chameleon/!svn/ver/1847/branches/ErmaC/Trunk/package/bin/po4a/po4a-gettextize
+END
+README.tests
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chameleon/!svn/ver/1847/branches/ErmaC/Trunk/package/bin/po4a/README.tests
+END
+po4a-translate
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chameleon/!svn/ver/1871/branches/ErmaC/Trunk/package/bin/po4a/po4a-translate
+END

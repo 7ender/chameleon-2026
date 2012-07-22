@@ -1,0 +1,2050 @@
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/bsm/audit.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/_limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/i386/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/i386/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/i386/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/machine/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/machine/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/mach/port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/pexpert/i386/boot.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/event.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/filio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/ioctl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/lock.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/proc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/queue.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/reboot.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/sockio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/stat.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/sysctl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/ucred.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/vm.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: disk.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o32: disk.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: auto.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: fdisk.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: part.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o32: user.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/bsm/audit.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/_limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/i386/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/i386/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/i386/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/machine/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/machine/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/mach/port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/event.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/lock.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/proc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/queue.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/sysctl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/ucred.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/sys/vm.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o32: getrawpartition.c
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/ctype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/runetype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: cmd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: misc.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: misc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o32: part.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/i386/_limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/i386/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/machine/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: opendev.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o32: util.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/stat.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: cmd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: misc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: part.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o32: part.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/stat.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: cmd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: misc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: part.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: user.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o32: user.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/ctype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/runetype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: auto.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: auto.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o32: part.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/bsm/audit.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/_limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/i386/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/i386/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/i386/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/machine/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/machine/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/mach/port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/event.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/filio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/ioctl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/lock.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/proc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/queue.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/reboot.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/sockio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/stat.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/sysctl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/ucred.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/vm.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: disk.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/disk.o64: disk.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: auto.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: fdisk.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: part.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/fdisk.o64: user.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/bsm/audit.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/_limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/i386/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/i386/vm_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/i386/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/machine/boolean.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/machine/vm_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/mach/port.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/stdint.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/event.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/lock.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/proc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/queue.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/sysctl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/ucred.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/sys/vm.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/time.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/getrawpartition.o64: getrawpartition.c
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/ctype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/runetype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: cmd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: misc.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: misc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/misc.o64: part.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/i386/_limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/i386/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/machine/limits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/errno.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/paths.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/syslimits.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: opendev.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/opendev.o64: util.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/stat.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: cmd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: misc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: part.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/part.o64: part.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/pwd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/fcntl.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/ioccom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/stat.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/ttycom.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/ttydefaults.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/termios.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/util.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: /usr/include/utmp.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: cmd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: misc.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: part.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: user.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/user.o64: user.h
+# Dependencies for File:  \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64:
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/Availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/AvailabilityInternal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/alloca.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/ctype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/err.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/_param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/i386/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/libkern/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/libkern/i386/_OSByteOrder.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/mach/i386/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/machine/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/machine/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/machine/endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/machine/param.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/machine/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/machine/types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/runetype.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/secure/_common.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/secure/_stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/secure/_string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/stdio.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/stdlib.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/string.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/strings.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/_endian.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/_posix_availability.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/_select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/_structs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/_symbol_aliasing.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/_types.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/appleapiopts.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/cdefs.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/resource.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/select.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/signal.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/sys/wait.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: /usr/include/unistd.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: auto.c
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: auto.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: disk.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: mbr.h
+ \
+ /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/auto.o64: part.h
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/ctype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/machine/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/memory.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/runetype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/fcntl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: auto.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: cmd.c
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: cmd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: disk.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: mbr.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: misc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: part.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o32: user.h
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/ctype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/machine/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/memory.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/runetype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/fcntl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: auto.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: cmd.c
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: cmd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: disk.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: mbr.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: misc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: part.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/cmd.o64: user.h
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/ctype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/err.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/machine/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/memory.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/pwd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/runetype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/fcntl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/filio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/ioccom.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/ioctl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/sockio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/stat.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/termios.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/ttycom.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/ttydefaults.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/termios.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/util.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: /usr/include/utmp.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: cmd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: disk.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: mbr.c
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: mbr.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: misc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o32: part.h
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/Availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/AvailabilityInternal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/alloca.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/ctype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/err.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/_param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/i386/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/libkern/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/libkern/i386/_OSByteOrder.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/mach/i386/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/machine/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/machine/endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/machine/param.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/machine/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/machine/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/memory.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/pwd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/runetype.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/secure/_common.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/secure/_stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/secure/_string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/stdio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/stdlib.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/strings.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/_endian.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/_posix_availability.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/_select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/_structs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/_symbol_aliasing.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/appleapiopts.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/fcntl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/filio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/ioccom.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/ioctl.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/resource.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/select.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/signal.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/sockio.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/stat.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/termios.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/ttycom.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/ttydefaults.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/sys/wait.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/termios.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/unistd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/util.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: /usr/include/utmp.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: cmd.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: disk.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: mbr.c
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: mbr.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: misc.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/util/fdisk/mbr.o64: part.h

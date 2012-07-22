@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/storage/ata
+END
+IOATAStorageDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/storage/ata/IOATAStorageDefines.h
+END
+IOATAPIProtocolTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chameleon/!svn/ver/1622/branches/ErmaC/Trunk/i386/include/IOKit/storage/ata/IOATAPIProtocolTransport.h
+END

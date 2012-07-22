@@ -1,0 +1,10 @@
+# Dependencies for File: /Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o:
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/autoconf.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/i386/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/klibc/compiler.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/machine/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/string.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/sys/_types.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: /Users/7ender/chameleon/branches/ErmaC/Trunk/i386/include/sys/cdefs.h
+/Users/7ender/chameleon/branches/ErmaC/Trunk/obj/i386/klibc/strlcpy.o: strlcpy.c
